@@ -1,0 +1,8 @@
+name: Fajteris.lt
+version: 1.0.1
+main: com.enderdevelopment.plugin.Main
+api-version: "1.21"
+commands:
+  ciao:
+    description: Greets the player.
+    usage: /ciao
